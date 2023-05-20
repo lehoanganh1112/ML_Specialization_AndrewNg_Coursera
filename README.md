@@ -1,4 +1,4 @@
-# ML_Specialization_AndrewNg_Coursera
+# Machine Learning Specialization by Andrew Ng - Coursera
  Python-code materials for the Machine Learning Specialization by Andrew Ng (Coursera). I put the materials here for references in the future.
 
 ## Certificates
