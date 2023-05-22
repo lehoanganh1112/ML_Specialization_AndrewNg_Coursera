@@ -9,4 +9,4 @@ This specialization consists on 3 course:
 I put the materials here for references in the future.
 
 ## Certificates
-![Alt text](Supervised_Machine_Learning/MachineLearning1_LHA.png?raw=true "Title")
+![Alt text](1_Supervised_Machine_Learning/MachineLearning1_LHA.png?raw=true "Title")
